@@ -1,0 +1,15 @@
+[Pokemon Recognation]
+PokemonPixelX=983
+PokemonPixelY=382
+ColorPokemon=0xFFFFFF
+[Battle Recognation]
+BattlePixelX=522
+BattlePixelY=626
+ColorBattle=0x5A4A9C
+[Pokemons]
+New_Pokemons_Colors=0x767676|0xFFFFFF|0x292939|0x31415A
+
+
+Staryu_Canavale=0x767676|0xFFFFFF|0x292939|0x31415A
+Gible=0x181818|0x000000|0x414A6A|0x101010
+Karlýyer=0xDEB46A|0xCDDEF6|0xBD3162|0xF0F0F0|0x737373
